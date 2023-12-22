@@ -4,7 +4,7 @@ Hi there! 👋 Thank you for visiting my GitHub profile. Here you'll find a coll
 
 ## About Me
 
-Yo, my name is Armando, but I would appreciate it if you DIDN'T call me that. I am a 15 year old full stack developer who's interested in game development and cybersecurity. I am experienced in software development as well as web development and Discord development.
+Yo, my name is Armando, but I would appreciate it if you DIDN'T call me that. I am a 15 year old low level developer who's interested in cybersecurity. I am experienced in software development as well as web development and Discord development.
 
 When im not off coding stuff, I usually like to flip balisongs! Although I'm still considered a beginner. 💻🔒
 
@@ -22,7 +22,7 @@ AI search without the mentos 🕵️‍♂️
 ### [Pepsearch/Mayzer](https://github.com/Pepsearch/Mayzer)
 A web based chatbot based on the GPT-3.5-Turbo architecture 🤖
 
-### [stryware/brainlack](https://github.com/strywaretech/brainlack)
+### [brainlack](https://github.com/armature64/brainlack)
 the language that makes you lack a brain! 🧠❌
 
 ## Contributions
