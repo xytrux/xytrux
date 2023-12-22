@@ -4,7 +4,7 @@ Hi there! 👋 Thank you for visiting my GitHub profile. Here you'll find a coll
 
 ## About Me
 
-Yo, my name is Armando, but I would appreciate it if you DIDN'T call me that. I am a 15 year old low level developer who's interested in cybersecurity. I am experienced in software development as well as web development and Discord development.
+Yo, my name is Armando, but I would appreciate it if you DIDN'T call me that. I am a low level developer who's interested in cybersecurity. I am experienced in software development as well as web development and Discord development.
 
 When im not off coding stuff, I usually like to flip balisongs! Although I'm still considered a beginner. 💻🔒
 
