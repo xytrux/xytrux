@@ -1,9 +1,8 @@
 # Hi there, I'm Armando! 👋
 
-<div style="text-align: center;">
-
-![armature64](https://svg-banners.vercel.app/api?type=glitch&text1=Armature&width=600&height=100)
-</div>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Armature&width=600&height=100" alt="armature64">
+</p>
 
 I'm a 15-year-old low level developer with interests in game development and cybersecurity. When I'm not coding, I enjoy flipping balisongs! 💻🔒
 
