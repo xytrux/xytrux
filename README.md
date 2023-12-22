@@ -13,6 +13,9 @@ When im not off coding stuff, I usually like to flip balisongs! Although I'm sti
 ### [vendetta-theme](https://github.com/armature64/vendetta-theme)
 surCord ported to Vendetta 🌙
 
+### [brainlack](https://github.com/armature64/brainlack)
+the language that makes you lack a brain! 🧠❌
+
 ### [RPCsync](https://github.com/armature64/RPCsync)
 The world's most easy-to-use Discord RPC client 🎮
 
@@ -21,9 +24,6 @@ AI search without the mentos 🕵️‍♂️
 
 ### [Pepsearch/Mayzer](https://github.com/Pepsearch/Mayzer)
 A web based chatbot based on the GPT-3.5-Turbo architecture 🤖
-
-### [brainlack](https://github.com/armature64/brainlack)
-the language that makes you lack a brain! 🧠❌
 
 ## Contributions
 
