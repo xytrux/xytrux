@@ -23,7 +23,7 @@ I'm a 15-year-old low level developer with interests in game development and cyb
 
 | Contribution | Description |
 |--------------|-------------|
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrultrabook&repo=docs&theme=radical&show_owner=true" width="500" />](https://github.com/chrultrabook/docs) | Centralized project documentation for chrultrabook. I helped a lot with spelling mistakes and writing the `ectool` page ✍️ |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrultrabook&repo=docs&theme=radical&show_owner=true" width="400" />](https://github.com/chrultrabook/docs) | Centralized project documentation for chrultrabook. ✍️ |
 
 ## 📬 Contact Me
 
