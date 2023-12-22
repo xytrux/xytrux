@@ -15,7 +15,7 @@
 | Project | Description |
 |---------|-------------|
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=vendetta-theme&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/vendetta-theme) | surCord ported to Vendetta 🌙 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=brainlack&theme=radical&show_owner=true" width="400" />](https://github.com/armature/brainlack) | The language that makes you lack a brain! 🧠❌
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=brainlack&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/brainlack) | The language that makes you lack a brain! 🧠❌
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=RPCsync&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/RPCsync) | The world's most easy-to-use Discord RPC client 🎮 |
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepsearch&repo=Mayzer&theme=radical&show_owner=true" width="400" />](https://github.com/Pepsearch/Mayzer) | A web based chatbot based on the GPT-3.5-Turbo architecture 🤖 |
 
