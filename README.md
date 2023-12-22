@@ -4,7 +4,7 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Armature&text2=Low%20Level%20Developer&width=800&height=200" alt="armature64">
 </p>
 
-I'm a 15-year-old low level developer with interests in game development and cybersecurity. When I'm not coding, I enjoy flipping balisongs! 💻🔒
+I'm a 15-year-old low level developer with interests in cybersecurity. When I'm not coding, I enjoy flipping balisongs! 💻🔒
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,js,html,css,java,bash,cs,discord"" />
