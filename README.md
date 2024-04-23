@@ -24,7 +24,7 @@
 
 | Contribution | Description |
 |--------------|-------------|
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrultrabook&repo=docs&theme=radical&show_owner=true" width="400" />](https://github.com/chrultrabook/docs) | Centralized project documentation for chrultrabook. ✍️ |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrultrabook&repo=docs&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/chrultrabook/docs) | Centralized project documentation for chrultrabook. ✍️ |
 
 ## 📬 Contact Me
 
