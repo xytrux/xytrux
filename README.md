@@ -4,7 +4,7 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Sai&text2=Low%20Level%20Developer&width=800&height=200" alt="xytrux">
 </p>
 
-<p align="center">I'm a low level developer with interests in cybersecurity. When I'm not coding, I enjoy flipping balisongs! 💻🔒</p>
+<p align="center">I'm a low level developer with interests in cybersecurity. When I'm not coding, I enjoy playing Halo and Quake! 💻🔒</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,html,js,discord"" />
