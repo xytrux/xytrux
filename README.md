@@ -15,10 +15,10 @@
 | Project | Description |
 |---------|-------------|
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=q7tech&repo=vendetta-theme&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/vendetta-theme) | surCord ported to Vendetta 🌙 |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=passpocket&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/passpocket) | A simple, yet powerful password manager. 🔐 |
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=brainlack&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/brainlack) | The language that makes you lack a brain! 🧠❌ |
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=pylack&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/pylack) | Brainlack interpreter in Python 🧠❌ |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=passpocket&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/passpocket) | A simple, yet powerful password manager. 🔐 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=radium&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/radium) | A simple and highly compact drive wiper 📦 |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=catppuccin-schoology&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/catppuccin-schoology) | A Catppuccin theme for people with the Schoology+ extension. 🐈 |
 
 ## 📝 Contributions
 
