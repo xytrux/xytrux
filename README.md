@@ -1,24 +1,24 @@
-# Hi there, I'm Armando! 👋
+# Hi there, I'm Sai! 👋
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Armature&text2=Low%20Level%20Developer&width=800&height=200" alt="armature64">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Sai&text2=Low%20Level%20Developer&width=800&height=200" alt="xytrux">
 </p>
 
 <p align="center">I'm a low level developer with interests in cybersecurity. When I'm not coding, I enjoy flipping balisongs! 💻🔒</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,java,bash,cs,discord"" />
+<img src="https://skillicons.dev/icons?i=c,python,html,js,discord"" />
 </p>
 
 ## 🚀 Projects
 
 | Project | Description |
 |---------|-------------|
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=vendetta-theme&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/vendetta-theme) | surCord ported to Vendetta 🌙 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=brainlack&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/brainlack) | The language that makes you lack a brain! 🧠❌
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=RPCsync&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/RPCsync) | The world's most easy-to-use Discord RPC client 🎮 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepsearch&repo=Mayzer&theme=radical&show_owner=true" width="400" />](https://github.com/Pepsearch/Mayzer) | A web based chatbot based on the GPT-3.5-Turbo architecture 🤖 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=armature64&repo=ArmRPC&theme=radical&show_owner=true" width="400" />](https://github.com/armature64/ArmRPC) | Another RPC client (great) 🕹️ |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=q7tech&repo=vendetta-theme&theme=radical&show_owner=true" width="400" />](https://github.com/xytrux/vendetta-theme) | surCord ported to Vendetta 🌙 |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=brainlack&theme=radical&show_owner=true" width="400" />](https://github.com/xytrux/brainlack) | The language that makes you lack a brain! 🧠❌ |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=pylack&theme=radical&show_owner=true" width="400" />](https://github.com/xytrux/pylack) | Brainlack interpreter in Python 🧠❌ |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=passpocket&theme=radical&show_owner=true" width="400" />](https://github.com/xytrux/passpocket) | A simple, yet powerful password manager. 🔐 |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=radium&theme=radical&show_owner=true" width="400" />](https://github.com/xytrux/radium) | A simple and highly compact drive wiper 📦 |
 
 ## 📝 Contributions
 
@@ -29,8 +29,7 @@
 ## 📬 Contact Me
 
 - Email: helloworldpy103@gmail.com 📧
-- Discord: arm64._ 🎧
-- Instagram: arm.flipz 📸
+- Discord: saiplayz1138 🎧
 
 ## ⚠️ License
 
