@@ -1,13 +1,13 @@
 # Hi there, I'm Sai! 👋
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Sai&text2=Low%20Level%20Developer&width=800&height=200" alt="xytrux">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Sai&text2=Full%20Stack%20Developer&width=800&height=200" alt="xytrux">
 </p>
 
 <p align="center">I'm a low and high level developer with interests in cybersecurity. When I'm not coding, I enjoy playing Halo and Quake! 💻🔒</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,nodejs,electron,discord"" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,nodejs,electron,discord,instagram,windows" />
 </p>
 
 ## 🚀 Projects
