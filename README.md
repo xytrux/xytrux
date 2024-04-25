@@ -7,7 +7,7 @@
 <p align="center">I'm a low and high level developer with interests in cybersecurity. When I'm not coding, I enjoy playing Halo and Quake! 💻🔒</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,discord"" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,nodejs,electron,discord"" />
 </p>
 
 ## 🚀 Projects
