@@ -7,7 +7,7 @@
 <p align="center">I'm a full stack developer with interests in cybersecurity. When I'm not coding, I enjoy playing Halo and Quake! 💻🔒</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,nodejs,electron,discord,instagram,windows" />
+<img src="https://skillicons.dev/icons?i=c,python,webassembly,html,css,js,nodejs,electron,discord,instagram,windows" />
 </p>
 
 ## 🚀 Projects
