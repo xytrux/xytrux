@@ -6,8 +6,22 @@
 
 <p align="center">I'm a full stack developer with interests in cybersecurity. When I'm not coding, I enjoy playing Halo and Quake! 💻🔒</p>
 
+## 📙 Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,webassembly,html,css,js,nodejs,electron,discord,instagram,windows" />
+<img src="https://skillicons.dev/icons?i=c,python,webassembly,html,css,js,nodejs,electron" />
+</p>
+
+## 🖥️ Operating Systems
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,arch,mint" />
+</p>
+
+## 📝 Editors
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,vim" />
 </p>
 
 ## 🚀 Projects
@@ -21,7 +35,7 @@
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=searchlabs-at-school&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/searchllabs-at-school) | Guide to accessing Google's AI search labs at school. 🧠🔐 |
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=catppuccin-schoology&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/catppuccin-schoology) | A Catppuccin theme for people with the Schoology+ extension. 🐈 |
 
-## 📝 Contributions
+## 🤝 Contributions
 
 | Contribution | Description |
 |--------------|-------------|
