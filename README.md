@@ -1,4 +1,4 @@
-# Hi there, I'm Arm! 👋
+# 👋 Hi there, I'm Arm!
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Armando&width=800&height=200" alt="xytrux">
