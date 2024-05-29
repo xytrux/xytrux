@@ -4,6 +4,12 @@ I'm Arm - I am a developer and high school student based in California. I'm inte
 
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js,nodejs,electron" />
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/825803913462284328?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/825803913462284328)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/825803913462284328)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/825803913462284328)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+
 ## 📬 Contact Me
 
 - Email: helloworldpy103@gmail.com 📧
