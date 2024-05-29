@@ -9,7 +9,7 @@
 ## 📙 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,webassembly,html,css,js,nodejs,electron" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,nodejs,electron" />
 </p>
 
 ## 🖥️ Operating Systems
