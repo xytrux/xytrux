@@ -15,13 +15,13 @@
 ## 🖥️ Operating Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,arch,mint" />
+<img src="https://skillicons.dev/icons?i=windows,mint" />
 </p>
 
 ## 📝 Editors
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,vim" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 </p>
 
 ## 🚀 My Best Projects
