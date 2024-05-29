@@ -24,16 +24,13 @@
 <img src="https://skillicons.dev/icons?i=vscode,vim" />
 </p>
 
-## 🚀 Projects
+## 🚀 My Best Projects
 
 | Project | Description |
 |---------|-------------|
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=passpocket&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/passpocket) | A simple, yet powerful password manager 🔐 |
 | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=brainlack&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/brainlack) | The language that makes you lack a brain! 🧠❌ |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=AI&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/AI) | A list of AI websites that work at LAUSD schools 🧠 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=gemini-at-school&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/gemini-at-school) | Guide to accessing Google Gemini at school. 🧠🔐 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=searchlabs-at-school&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/searchllabs-at-school) | Guide to accessing Google's AI search labs at school. 🧠🔐 |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=catppuccin-schoology&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/catppuccin-schoology) | A Catppuccin theme for people with the Schoology+ extension. 🐈 |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=xytrux&repo=IconReplacerPro&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_owner=true" width="400" />](https://github.com/xytrux/IconReplacerPro) | A tool to add custom GD icons into the game. 🛠️ |
 
 ## 🤝 Contributions
 
