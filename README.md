@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Arm - I am a developer and high school student based in California. I'm interested in game modding and console modding. I make things in my freetime. You'll either see me gaming or coding some programs.
+I'm Arm - I am a developer and high school student based in California. I'm interested in modding things from games to even cars! I wish to become an AI or robotics engineer in the future.
 
 <img src="https://skillicons.dev/icons?i=nim,py,c,html" />
 
