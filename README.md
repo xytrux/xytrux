@@ -2,7 +2,7 @@
 
 I'm Arm - I am a developer and high school student based in California. I'm interested in modding things from games to even cars! I wish to become a movie director in the future.
 
-<img src="https://skillicons.dev/icons?i=nim,py,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
