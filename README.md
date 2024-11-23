@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Arm - I am a developer and high school student based in California. I'm interested in modding things from games to even cars! I wish to become a movie director in the future.
+ I am a developer and high school student in the US and do a lot of stuff with Chromebooks.
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim" />
 
