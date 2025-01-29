@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
- I am a developer and high school student in the US and do a lot of stuff with Chromebooks.
+ I am a high school sophomore and in a CS2 esports team. I hope to become a driver for Ferrari or major in CS.
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim" />
 
