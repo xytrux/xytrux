@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
- I am a high school sophomore and in a CS2 esports team. I hope to get a racing career or get a job in CS.
+ I am a high school junior and in a CS2 esports team. I hope to get a racing career or get a job in CS.
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim" />
 
