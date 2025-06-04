@@ -1,8 +1,8 @@
 # 👋 Hi there!
 
- I am a high school junior and in an esports team. I hope to get a racing career or get a job in CS.
+ I mess with things powered by electricity. Sometimes, my messing doesn't go too well.
 
-<img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim" />
+<img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
