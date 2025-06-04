@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-"By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher." -Socrates
+"It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt." -Mark Twain
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs" />
 
