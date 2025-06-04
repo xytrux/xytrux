@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
- I mess with things powered by electricity. Sometimes, my messing doesn't go too well.
+"By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher." -Socrates
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs" />
 
