@@ -2,7 +2,7 @@
 
 "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt." -Mark Twain
 
-<img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs" />
+<img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs,java" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
