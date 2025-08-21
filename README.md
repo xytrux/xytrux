@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-"It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt." -Mark Twain
+I am a programmer, malware analysist, programmer, and a future AI or electrical engineer
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs,java" />
 
