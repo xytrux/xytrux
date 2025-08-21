@@ -1,8 +1,8 @@
 # 👋 Hi there!
 
-I am a programmer and a future AI engineer
+I am a programmer and a future electrical engineer
 
-<img src="https://skillicons.dev/icons?i=nim,html,css,python,pytorch,js,c,cs,java" />
+<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
