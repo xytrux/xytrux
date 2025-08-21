@@ -2,7 +2,7 @@
 
 I am a programmer and a future AI engineer
 
-<img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs,java,pytorch" />
+<img src="https://skillicons.dev/icons?i=nim,html,css,python,pytorch,js,c,cs,java" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
