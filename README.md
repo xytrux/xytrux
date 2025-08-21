@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am a programmer, malware analysist, programmer, and a future AI or electrical engineer
+I am a programmer and a future AI engineer
 
 <img src="https://skillicons.dev/icons?i=js,html,py,css,c,nim,cs,java" />
 
