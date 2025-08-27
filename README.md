@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am a programmer and a future electrical engineer
+I am a programmer and a future IT sysadmin
 
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java" />
 
