@@ -2,7 +2,11 @@
 
 I am a programmer and a future IT sysadmin
 
-<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,arch" />
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java" />
+
+## Operating Systems
+<img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
