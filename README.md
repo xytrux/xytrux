@@ -3,10 +3,13 @@
 **I'm Armando** - I am a full-stack developer, high school student, and teacher's assistant. I am interested in IT, motorsport, AI, and quantum physics. I like sim racing and taking apart devices I find at the junkyard in my free time.
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java" />
+<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
 
 ## Operating Systems
-<img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" />
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,debian,apple,redhat,mint,kali," />
+
+## Services and Tools
+<img src="https://skillicons.dev/icons?i=discord,cloudflare,docker,aws,azure,github,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,blender,bootstrap,arduino" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
