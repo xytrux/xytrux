@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-**I'm Armando** - I am a full-stack developer, high school student, and teacher's assistant. I am interested in IT, motorsport, AI, and quantum physics. I sim race during my free time and also, occasionally, taking apart computers and other devices I find at the junkyard.
+**I'm Armando** - I am a full-stack developer, high school student, and teacher's assistant. I am interested in IT, motorsport, AI, and quantum physics. I sim race and occasionally take apart computers and other devices I find at the junkyard in my free time.
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java" />
