@@ -9,7 +9,10 @@
 <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,debian,apple,redhat,mint,kali," />
 
 ## Services and Tools
-<img src="https://skillicons.dev/icons?i=discord,cloudflare,docker,aws,azure,github,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,blender,bootstrap,arduino" />
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,blender,bootstrap,arduino" />
+
+## Used Social Media
+<img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
