@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Armando (he/him) - I am a full-stack developer, high school student, and teacher's assistant. I am interested in IT and AI. I sim race during my free time and also, occasionally, taking apart computers and other devices I find at the junkyard.
+**I'm Armando (he/him)** - I am a full-stack developer, high school student, and teacher's assistant. I am interested in IT and AI. I sim race during my free time and also, occasionally, taking apart computers and other devices I find at the junkyard.
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java" />
