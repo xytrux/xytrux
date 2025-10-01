@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,debian,apple,redhat,mint,kali," />
 
 ## Services and Tools
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,blender,bootstrap,arduino" />
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,bootstrap,arduino" />
 
 ## Used Social Media
 <img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter" />
